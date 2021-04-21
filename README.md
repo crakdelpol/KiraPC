@@ -10,7 +10,15 @@
 
 Software Engineer with a strong passion for the technology since I was a child.
 
-I love coding and automation.
+I like design and develop solutions using common patterns and best practices, finding the better way.
+
+There's almost always a better way.
+
+```js
+while(true) {
+  doBetter()
+}
+```
 
 <hr>
 
