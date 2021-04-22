@@ -24,10 +24,9 @@ while(true) {
 
 ### My Github stats
 
-<a href="https://github.com/KiraPC">
-<img align="center" alt="Kira's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=KiraPC&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /></a>
-
-
-<a href="https://github.com/KiraPC">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KiraPC&layout=compact&theme=algolia" />
+<a href="https://github.com/KiraPC/KiraPC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KiraPC&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="KiraPC's GitHub Stats" />
+</a>
+<a href="https://github.com/KiraPC/KiraPC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraPC&title_color=fffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=pug,scss" />
 </a>
